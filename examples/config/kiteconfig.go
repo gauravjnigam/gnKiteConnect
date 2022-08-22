@@ -17,8 +17,8 @@ type APIConfig struct {
 func GetConfig() *Config {
 	return &Config{
 		ApiConfig: &APIConfig{
-			ApiKey:       "",
-			ApiSecret:    "",
+			ApiKey:       "exas5p7qo7tula9z",
+			ApiSecret:    "741kozxapef490wabcokhs1d4giuhiw3",
 			RequestToken: "",
 			LoginId:      "",
 			Passcode:     "",
